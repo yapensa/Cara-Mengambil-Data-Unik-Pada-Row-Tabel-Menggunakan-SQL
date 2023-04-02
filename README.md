@@ -355,7 +355,7 @@ SELECT status FROM orders;
 # Code SQL SELECT DISTINCT
 SELECT DISTINCT status FROM orders;
 
-Hasi:
+Hasil:
 
 ![image](https://user-images.githubusercontent.com/8088664/229362104-e17669b2-d25d-4fb1-8974-868d0484dd01.png)
 
