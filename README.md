@@ -11,6 +11,9 @@ link data: https://www.mysqltutorial.org/wp-content/uploads/2018/03/mysqlsampled
 
 # Struktur Tabel
 
+ describe orders;
+ 
+
 ![image](https://user-images.githubusercontent.com/8088664/229361923-486d6237-f335-45d7-9f24-22a2dc3eef64.png)
 
 # Menampilkan isi kolom status
