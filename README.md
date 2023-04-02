@@ -360,7 +360,9 @@ Hasi:
 ![image](https://user-images.githubusercontent.com/8088664/229362104-e17669b2-d25d-4fb1-8974-868d0484dd01.png)
 
 # Penjelasan Code
-Perintah SQL SELECT DISTINCT status FROM orders; digunakan untuk mengambil data dari tabel orders dan menampilkan nilai unik dari kolom status. Dalam hal ini:
+Perintah SQL SELECT DISTINCT status FROM orders; 
+
+digunakan untuk mengambil data dari tabel orders dan menampilkan nilai unik dari kolom status. Dalam hal ini:
 
 - SELECT DISTINCT digunakan untuk memilih nilai unik dari kolom yang diambil.
 - status adalah nama kolom yang akan ditampilkan nilai uniknya.
