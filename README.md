@@ -2,7 +2,7 @@
 Cara Mengambil Data Unik Pada Row Tabel Menggunakan SQL
 
 # Studi Kasus
-Misalnya kita ingin mengambil isi dari kolom "status" dari tabel "order", karena datanya jutaan row kita tidak tahu isi kolom "status" itu apa aja isinya...
+Misalnya kita ingin mengambil isi kolom "status" dari tabel "order", karena datanya jutaan row kita tidak tahu isi kolom "status" itu apa aja isinya... maka dari itu kita perlu data apa saja tanpa adanya duplikasi....
 
 # Data
 link data: https://www.mysqltutorial.org/wp-content/uploads/2018/03/mysqlsampledatabase.zip
